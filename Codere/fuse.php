@@ -285,13 +285,15 @@ td{
 	position: absolute;
 	top: 20px;
     left: 100px;
+	width:700px;
+
 	
 }
 .Des1{
 	position: absolute;
 	top: 20px;
     height:0px;
-    width:200px;
+    width:700px;
     left: 100px;
 }
 </style>
